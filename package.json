@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "start": "parcel ./index.html",
-    "watch": "parcel watch ./index.html"
+    "start": "yarn parcel ./index.html",
+    "watch": "yarn parcel watch ./index.html"
   },
   "dependencies": {
     "@types/react": "^16.8.20",
