@@ -1,6 +1,6 @@
 import axios from 'axios';
 
 export const API = axios.create({
-  baseURL: 'http://localhost:3000/',
+  baseURL: 'https://eddie-backend.herokuapp.com/',
   responseType: 'json'
 });
